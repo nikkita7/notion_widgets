@@ -1,0 +1,7 @@
+.hdapi-report-box form input[type=submit],
+.hdapi-report-box form input[type=submit]:hover{
+    border-radius: 0px;
+    padding: 10px 16px!important;
+    background: #000000!important;
+
+}

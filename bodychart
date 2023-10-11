@@ -1,7 +1,1 @@
-.hdapi-report-box form input[type=submit],
-.hdapi-report-box form input[type=submit]:hover{
-    border-radius: 0px;
-    padding: 10px 16px!important;
-    background: #000000!important;
-
-}
+<script src="https://embed.bodygraphchart.com/v1/222/js?token=2ee06bb7-4e4a-4b01-9ebf-230ec3946fb8" defer></script>
